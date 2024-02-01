@@ -20,6 +20,7 @@
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![SqlServer](https://img.shields.io/badge/SQLSERVER-E34F26?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)]()
+[![.Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
 
 Sou uma paixonado por tecnologia, desejo facilitar a vidas das pessoas através da programação !
