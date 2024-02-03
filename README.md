@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá eu sou o Luciano Martins! ✋
 
 [![GitHub](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoMartinsDev)
@@ -23,7 +21,7 @@
 [![.Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
 
-Sou uma paixonado por tecnologia, desejo facilitar a vidas das pessoas através da programação !
+Sou um paixonado por tecnologia, desejo facilitar a vidas das pessoas através da programação !
 
 
 ## Contatos
